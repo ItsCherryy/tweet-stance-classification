@@ -11,14 +11,14 @@ The best model achieved an F1 score of 63% on the test set, performing well on S
 
 <table align="center">
 <tr align="center">
+    <thead>
+        Model F1 Score across 30 Epochs
+    </thead>
+</tr>
+    
+<tr align="center">
     <td><img src="model_training/best_model.png"></td>
 </tr>
-<tr align="center">
-    <td>
-        <p>Model F1 Score across 30 Epochs</p>
-    </td>
-</tr>
-
 </table>
 
 To simulate the model’s performance on Real-world data, ChatGPT is used to generate 5 tweets for each Stance for 4 Targets namely Environmental Crisis, Political Discourse, Gender Equality, Religious Beliefs. Different Targets never seen are used to simulate the real-world data to test the model’s performance on. Unfortunately, the model achieved only 33% F1 score, indicating that the model is not suitable for deployment.
