@@ -27,10 +27,11 @@ To simulate the model’s performance on Real-world data, ChatGPT is used to gen
 
 ## What I learned:
 1. Design and create an end-to-end deep learning system
-2. Sequential Data Analysis
-3. Textual Data Augmentation
-4. Sequence Processing with Deep Learning
-5. Analyse and Evaluate the output of different algorithms
-6. Provide an ultimate judgement of the final trained modele in a real-world setting
+2. Machine Learning using Jupyter Notebook
+3. Sequential Data Analysis
+4. Textual Data Augmentation
+5. Sequence Processing with Deep Learning
+6. Analyse and Evaluate the output of different algorithms
+7. Provide an ultimate judgement of the final trained modele in a real-world setting
 
 
