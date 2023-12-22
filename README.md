@@ -13,13 +13,20 @@ The best model achieved an F1 score of 63% on the test set, performing well on S
 <thead>
      <tr align="center">
         <td>
-        <p>Model F1 Score across 30 Epochs</p>
+        <p>Model F1 Score</p>
+        </td>
+     </tr>
+
+     <tr align="center">
+        <td>
+        <p>Model Loss</p>
         </td>
      </tr>
 </thead>
     
 <tr align="center">
     <td><img src="model_training/best_model.png"></td>
+     <td><img src="model_training/best_model_loss.png"></td>
 </tr>
 </table>
 
