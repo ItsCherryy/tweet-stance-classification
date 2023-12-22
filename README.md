@@ -9,7 +9,7 @@ In this task, students are required to train an end-to-end deep neural network o
 
 The best model achieved an F1 score of 63% on the test set, performing well on Stance FAVOR and AGAINST for most Target except CC and DT.
 
-<table>
+<table align="center">
 <tr>
     <td><img src="model_training/best_model.png"></td>
 </tr>
