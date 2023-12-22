@@ -25,4 +25,9 @@ The best model achieved an F1 score of 63% on the test set, performing well on S
 
 To simulate the model’s performance on Real-world data, ChatGPT is used to generate 5 tweets for each Stance for 4 Targets namely Environmental Crisis, Political Discourse, Gender Equality, Religious Beliefs. Different Targets never seen are used to simulate the real-world data to test the model’s performance on. Unfortunately, the model achieved only 33% F1 score, indicating that the model is not suitable for deployment.
 
+## What I learned:
+1. Textual Data Analysis
+2. Textual Data Augmentation
+3. Sequential Deep Learning
+
 
