@@ -15,9 +15,6 @@ The best model achieved an F1 score of 63% on the test set, performing well on S
         <td>
         <p>Model F1 Score</p>
         </td>
-     </tr>
-
-     <tr align="center">
         <td>
         <p>Model Loss</p>
         </td>
