@@ -27,7 +27,7 @@ To simulate the model’s performance on Real-world data, ChatGPT is used to gen
 
 ## What I learned:
 1. Design and create an end-to-end deep learning system
-2. Machine Learning using Jupyter Notebook
+2. Data analysis and machine learning using Jupyter Notebook
 3. Sequential Data Analysis
 4. Textual Data Augmentation
 5. Sequence Processing with Deep Learning
