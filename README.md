@@ -11,9 +11,12 @@ The best model achieved an F1 score of 63% on the test set, performing well on S
 
 <table align="center">
 <tr align="center">
-    <thead>
+    <td>
+        <thead>
         Model F1 Score across 30 Epochs
     </thead>
+    </td>
+    
 </tr>
     
 <tr align="center">
